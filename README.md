@@ -1,0 +1,1 @@
+Whenever you add a new package to the project, you must add that to the requirements.txt like in example!!
