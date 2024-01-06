@@ -12,6 +12,7 @@ class DataAccess:
         df = pd.read_csv(f"{name}.csv", nrows=nrows)
         return df
     
+    
     # def get_ratings():
     #     df = pd.read_csv("ratings.csv")
     #     return df
